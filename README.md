@@ -37,9 +37,7 @@ Refer to the `schema.sql` file for detailed table definitions.
 ## 📊 Entity Relationship Diagram (ERD)
 The following ERD shows the relationship between tables in the Apple Retail Sales Database:
 
-```markdown
 ![Entity Relationship Diagram](./erd.png)
-```
 
 ---
 
